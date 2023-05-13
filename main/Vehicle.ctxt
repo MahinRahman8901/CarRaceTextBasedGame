@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=type\ make
+comment1.target=Vehicle(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getMake()
+comment4.params=secondMake
+comment4.target=void\ newMake(java.lang.String)
+comment5.params=
+comment5.target=void\ carStats()
+comment6.params=
+comment6.target=int\ getHorsepower()
+comment7.params=
+comment7.target=void\ changeOverHeat()
+comment8.params=
+comment8.target=void\ getHeatStatus()
+numComments=9

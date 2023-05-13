@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BettingSystem
+comment1.params=bet\ name
+comment1.target=BettingSystem(double,\ java.lang.String)
+comment2.params=newBet
+comment2.target=void\ setnewtBet(int)
+comment3.params=
+comment3.target=double\ getBetAmount()
+comment4.params=
+comment4.target=double\ getMoney()
+comment5.params=
+comment5.target=boolean\ setChampion()
+numComments=6

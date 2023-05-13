@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ford
+comment1.params=type\ make\ horsepower
+comment1.target=Ford(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=boolean\ setModification()
+comment3.params=
+comment3.target=void\ getModification()
+comment4.params=
+comment4.target=int\ getHorsepower()
+comment5.params=
+comment5.target=void\ carStats()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BMW
+comment1.params=type\ make\ horsepower
+comment1.target=BMW(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getHorsepower()
+comment3.params=
+comment3.target=void\ changeOverHeat()
+comment4.params=
+comment4.target=void\ getHeatStatus()
+comment5.params=
+comment5.target=boolean\ returnHeat()
+comment6.params=
+comment6.target=void\ carStats()
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=WinningSystem
+comment1.params=bet\ name\ winnings\ losses\ Champion
+comment1.target=WinningSystem(double,\ java.lang.String,\ java.lang.Double,\ java.lang.Double,\ boolean)
+comment10.params=
+comment10.target=boolean\ setChampion()
+comment2.params=newWinnings
+comment2.target=void\ setWinnings(int)
+comment3.params=newLosses
+comment3.target=void\ setLosses(int)
+comment4.params=
+comment4.target=double\ getWinnings()
+comment5.params=
+comment5.target=double\ getLosses()
+comment6.params=
+comment6.target=void\ MercWin()
+comment7.params=
+comment7.target=void\ BMWWin()
+comment8.params=
+comment8.target=void\ FordWin()
+comment9.params=
+comment9.target=double\ getMoney()
+numComments=11
